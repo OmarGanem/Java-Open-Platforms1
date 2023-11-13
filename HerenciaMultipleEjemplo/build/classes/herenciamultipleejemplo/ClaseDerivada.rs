@@ -1,0 +1,3 @@
+herenciamultipleejemplo.SegundaInterfaz
+herenciamultipleejemplo.ClaseDerivada
+herenciamultipleejemplo.PrimeraInterfaz
